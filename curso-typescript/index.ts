@@ -7,3 +7,9 @@ const tapas2 = 5;
 
 const resultado = somar(tapas1, tapas2);
 console.log('vai tomar ' + resultado + ' tapas');
+
+let x: [string, number];
+x = ["10", 10]; //array:1
+
+
+
